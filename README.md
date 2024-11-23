@@ -1,6 +1,5 @@
 # 3D Solar system
 Delevoper: Daniel Milev <br>
-Instructor: Anton Milev <br>
 
 <a href="https://github.com/antonmilev/Test2/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
 # Introduction
@@ -93,7 +92,7 @@ Planets and moons view can be switched to side orbital view with J key:
 
 | <img src="pics/Mercury2.jpg" width="300px"/> |  <img src="pics/Venus2.jpg" width="300px"/> | <img src="pics/Earth2.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Mercury Side View - Key:1+J </b>* | *<b>Venus Side View - Key:2</b>* | *<b>Earth  Side View- Key:3+J</b>* | 
+| *<b>Mercury Side View - Key:1+J </b>* | *<b>Venus Side View - Key:2+J</b>* | *<b>Earth  Side View- Key:3+J</b>* | 
 
 | <img src="pics/Mars2.jpg" width="300px"/> | <img src="pics/Jupiter2.jpg" width="300px"/>|<img src="pics/Saturn2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
@@ -117,7 +116,7 @@ In planet views there is additional information about the planets displayed with
 
 | <img src="pics/EarthInfo.jpg" width="300px"/> |  <img src="pics/MarsInfo.jpg" width="300px"/> | <img src="pics/PlutoInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Earth - Key:3+X</b>* | *<b>Mars - Key:4</b>* | *<b>Pluto- Key:9</b>* | 
+| *<b>Earth - Key:3+X</b>* | *<b>Mars - Key:4+X</b>* | *<b>Pluto- Key:9+X</b>* | 
 
 # More to come..
 <ul>
