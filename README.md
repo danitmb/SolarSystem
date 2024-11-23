@@ -1,7 +1,6 @@
 # 3D Solar system
 Delevoper: Daniel Milev <br>
-Instructor: Dobrinka Yaneva <br>
-125su "Boyan Penev" <br> 
+Instructor: Anton Milev <br>
 
 <a href="https://github.com/antonmilev/Test2/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
 # Introduction
@@ -56,6 +55,7 @@ The program allows you to view different viewpoints and moons, change cameras an
 - Space – return to default POV
 - F1 – change POV to freecam
 - X - display additional info (in planet view)
+- F - Toggle fullscreen
 
 Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
 
