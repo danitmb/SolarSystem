@@ -74,6 +74,12 @@ Asteroid belt view is activated by pressing the 0 key:
 <img src="pics/Asteroids.jpg" width="800px"/>
 </p>
 
+Detailed info for asteroids can be activated with X key:
+
+<p align="center">
+<img src="pics/AsteroidsInfo.jpg" width="800px"/>
+</p>
+
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
 
 | <img src="pics/Mercury.jpg" width="300px"/> |  <img src="pics/Venus.jpg" width="300px"/> | <img src="pics/Earth.jpg" width="300px"/> 
