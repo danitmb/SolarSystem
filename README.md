@@ -70,7 +70,9 @@ The display of planet orbits can be toggled on and off using the "O" key, and th
 
 Asteroid belt view is activated by pressing the 0 key:
 
+<p align="center">
 [Asteroids.webm](https://github.com/user-attachments/assets/6bb746fd-43ec-4e02-93df-6135591a4217)
+</p>
 
 Detailed info of asteroids can be activated with X key:
 
