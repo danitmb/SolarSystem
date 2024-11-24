@@ -10,7 +10,7 @@ Of course, everyone dreams of flying into space and I really hope that in the ne
 I wish you a pleasant journey....
 
 <p align="center">
-<img src="pics/start.jpg" width="800px"/>
+<img src="pics/start.jpg" width="854px"/>
 </p>
 
 # Main stages in the implementation of the project
@@ -40,6 +40,7 @@ I wish you a pleasant journey....
 
 The program allows you to view different viewpoints and moons, change cameras and various other changes with these buttons, you can remove or add orbits, launch a special mode for additional information, etc.
 
+### Keyboard
 - WASD and arrows – camera movement
 - 1 – 0 on the keyboard – change camera to planets view
 - 1 – 6 on the keypad  - change camera to moons view
@@ -56,22 +57,21 @@ The program allows you to view different viewpoints and moons, change cameras an
 - X - display additional info (in planet view)
 - F - Toggle fullscreen
 
+### Mouse
+- left button - panning in X and Z axis
+- scroll button - zoom in/out
+- right button - rotate
+
 Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
 
-<p align="center">
-<img src="pics/CloseView.jpg" width="854px"/>
-</p>
-
-The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
-
-<p align="center">
-<img src="pics/Orbits.jpg" width="854px"/>
-</p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/93e99bb8-7f29-4a39-b89f-99a0e82a597e" />
+</div>
 
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/6bb746fd-43ec-4e02-93df-6135591a4217" />
+<video src="https://github.com/user-attachments/assets/b8a709a6-67bc-4fda-bf5d-5f1afc7a1ef3" />
 </div>
 
 Detailed info of asteroids can be activated with X key:
@@ -79,6 +79,12 @@ Detailed info of asteroids can be activated with X key:
 <div align="center">
 <img src="pics/AsteroidsInfo.jpg" width="854px"/>
 </div>
+
+The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
+
+<p align="center">
+<img src="pics/Orbits.jpg" width="854px"/>
+</p>
 
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
 
@@ -123,6 +129,12 @@ In planet views there is additional information about the planets displayed with
 | <img src="pics/EarthInfo.jpg" width="300px"/> |  <img src="pics/MarsInfo.jpg" width="300px"/> | <img src="pics/PlutoInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
 | *<b>Earth - Key:3+X</b>* | *<b>Mars - Key:4+X</b>* | *<b>Pluto- Key:9+X</b>* | 
+
+Again J and O keys can be used to display planet orbits:
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/4a4b5588-219a-4aa4-bb61-bf4b96394c10" />
+</div>
 
 # More to come..
 <ul>
