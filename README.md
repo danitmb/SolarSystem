@@ -59,25 +59,25 @@ The program allows you to view different viewpoints and moons, change cameras an
 Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
 
 <p align="center">
-<img src="pics/CloseView.jpg" width="800px"/>
+<img src="pics/CloseView.jpg" width="854px"/>
 </p>
 
 The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
 
 <p align="center">
-<img src="pics/Orbits.jpg" width="800px"/>
+<img src="pics/Orbits.jpg" width="854px"/>
 </p>
 
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/6bb746fd-43ec-4e02-93df-6135591a4217" width="800px" />
+<video src="https://github.com/user-attachments/assets/6bb746fd-43ec-4e02-93df-6135591a4217" />
 </div>
 
 Detailed info of asteroids can be activated with X key:
 
 <div align="center">
-<img src="pics/AsteroidsInfo.jpg" width="800px"/>
+<img src="pics/AsteroidsInfo.jpg" width="854px"/>
 </div>
 
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
