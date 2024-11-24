@@ -76,9 +76,9 @@ Asteroid belt view is activated by pressing the 0 key:
 
 Detailed info of asteroids can be activated with X key:
 
-<p align="center">
+<div align="center">
 <img src="pics/AsteroidsInfo.jpg" width="800px"/>
-</p>
+</div>
 
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
 
