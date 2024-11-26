@@ -162,3 +162,9 @@ Again J and O keys can be used to display planet orbits:
 |Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
 |User Manual| [SolarSystem.pdf](docs/SolarSystem.pdf)|
+
+## System Requirments
+
+Windows OS 10/11
+<br>
+Video card supporting OpenGL 4.x and 1GB memory
