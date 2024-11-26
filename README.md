@@ -1,7 +1,8 @@
 # 3D Solar system
 Delevoper: Daniel Milev <br>
 
-<a href="https://github.com/antonmilev/Test2/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
+<a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
+
 # Introduction
 
 Goal: 3D Solar System simulation allows us to visually get acquainted with the planets, their volume, to get an idea of ​​how and how fast they move, how far they are from them and their size. <br> <br>
@@ -158,6 +159,6 @@ Again J and O keys can be used to display planet orbits:
 
 # Release
 <b>SolarSystem 1.0 </b>can be downloaded from: 
-|Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/antonmilev/Test2/raw/refs/heads/main/install/SolarSystem.zip)|
+|Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
 |User Manual| [SolarSystem.pdf](docs/SolarSystem.pdf)|
