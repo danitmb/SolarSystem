@@ -8,15 +8,9 @@ Delevoper: Daniel Milev <br>
 
 The project aims to develop a 3D simulation of the Solar System using OpenGL and modern multimedia technologies. This simulation will facilitate learning about the geometry, positions, and orbital speeds of planets and their moons. Additionally, it offers an overview of the Asteroid Belt, situated between Mars and Jupiter, which holds significant potential for future study and resource utilization.
 
- <br> <br>
-
 The simulation begins with a free camera that enables movement and rotation in 3D space using the mouse and keyboard. By pressing the number keys 1-9, users can switch to orbital cameras positioned at fixed locations relative to the nine planets. Additionally, there are six stationary cameras dedicated to specific moons and the Asteroid Belt.
 
- <br> <br>
-
 The application lets you adjust the simulation speed or pause it at any chosen moment, enabling a detailed study of celestial body movements. It also provides the option to visualize the orbits of planets and their moons.
-
- <br> <br>
 
 While many dream of traveling to space, and I hope it becomes a reality in the near future, the 3D Solar System simulation offers the chance to pilot a virtual spaceship, exploring destinations from the Sun to Pluto.
 
