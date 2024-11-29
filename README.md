@@ -5,10 +5,20 @@ Delevoper: Daniel Milev <br>
 
 # Introduction
 
-Goal: 3D Solar System simulation allows us to visually get acquainted with the planets, their volume, to get an idea of ​​how and how fast they move, how far they are from them and their size. <br> <br>
-In the application, the speed of movement of the planets can be changed, while maintaining the correspondence between the speeds of the planets. You can stop at a moment of your choice, study their positions and start again, you can approach the planets or study them from afar. Different positions allow you to get an idea of ​​what it would be like if you were in the asteroid belt, or what the movement of planet Earth from the Moon, or Jupiter from Ganymede looks like.
-Of course, everyone dreams of flying into space and I really hope that in the near future it will be possible... but until then, 3D Solar System gives you the opportunity to pilot a spaceship to the Sun or Pluto. <br> <br>
-I wish you a pleasant journey....
+
+The project aims to develop a 3D simulation of the Solar System using OpenGL and modern multimedia technologies. This simulation will facilitate learning about the geometry, positions, and orbital speeds of planets and their moons. Additionally, it offers an overview of the Asteroid Belt, situated between Mars and Jupiter, which holds significant potential for future study and resource utilization.
+
+ <br> <br>
+
+The simulation begins with a free camera that enables movement and rotation in 3D space using the mouse and keyboard. By pressing the number keys 1-9, users can switch to orbital cameras positioned at fixed locations relative to the nine planets. Additionally, there are six stationary cameras dedicated to specific moons and the Asteroid Belt.
+
+ <br> <br>
+
+The application lets you adjust the simulation speed or pause it at any chosen moment, enabling a detailed study of celestial body movements. It also provides the option to visualize the orbits of planets and their moons.
+
+ <br> <br>
+
+While many dream of traveling to space, and I hope it becomes a reality in the near future, the 3D Solar System simulation offers the chance to pilot a virtual spaceship, exploring destinations from the Sun to Pluto.
 
 <p align="center">
 <img src="pics/start.jpg" width="854px"/>
