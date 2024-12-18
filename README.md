@@ -125,9 +125,13 @@ Camera views for several of the moons (1–6 on the keypad):
 |:---:|:---:|:---:|
 | *<b>Moon - KeyPad:1</b>* | *<b>Io - KeyPad:2</b>* | *<b>Europa- KeyPad:3</b>* | 
 
-| <img src="pics/Ganymede2.jpg" width="300px"/> | <img src="pics/Callisto2.jpg" width="300px"/>|<img src="pics/Triton.jpg" width="300px"/>|
+| <img src="pics/Ganymede2.jpg" width="300px"/> | <img src="pics/Callisto2.jpg" width="300px"/>|<img src="pics/Rhea2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Ganymede - KeyPad:4 </b>* | *<b>Callisto- KeyPad:5 </b>* | *<b>Triton - KeyPad:6 </b>* | 
+| *<b>Ganymede - KeyPad:4 </b>* | *<b>Callisto- KeyPad:5 </b>* | *<b>Rhea - KeyPad:6 </b>* | 
+
+| <img src="pics/Titan2.jpg" width="300px"/> | <img src="pics/Oberon2.jpg" width="300px"/>|<img src="pics/Triton2.jpg" width="300px"/>|
+|:---:|:---:|:---:|
+| *<b>Titan - KeyPad:7 </b>* | *<b>Oberon- KeyPad:8 </b>* | *<b>Triton - KeyPad:9 </b>* | 
 
 In planet views there is additional information about the planets displayed with X key:
 
@@ -147,8 +151,6 @@ Again J and O keys can be used to display planet orbits:
 
 # More to come..
 <ul>
-  <li>Saturn moons </li>
-  <li>Kuiper belt <a href="https://en.wikipedia.org/wiki/Kuiper_belt">see</a> </li>
   <li>Spacehip travel around the solar system </li>
   
   | <img src="pics/Spaceship1.jpg" width="300px"/> |  <img src="pics/Spaceship2.jpg" width="300px"/> | <img src="pics/Spaceship3.jpg" width="300px"/> 
