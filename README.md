@@ -91,6 +91,10 @@ Detailed info of asteroids can be activated with X key:
 <img src="pics/AsteroidsInfo.jpg" width="854px"/>
 </div>
 
+<div align="center">
+<img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
+</div>
+
 The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
 
 <p align="center">
