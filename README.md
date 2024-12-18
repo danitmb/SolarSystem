@@ -133,11 +133,15 @@ Camera views for several of the moons (1–6 on the keypad):
 |:---:|:---:|:---:|
 | *<b>Titan - KeyPad:7 </b>* | *<b>Oberon- KeyPad:8 </b>* | *<b>Triton - KeyPad:9 </b>* | 
 
-In planet views there is additional information about the planets displayed with X key:
+In planet and moons views there is additional information about the objects displayed with X key:
 
 | <img src="pics/EarthInfo.jpg" width="300px"/> |  <img src="pics/MarsInfo.jpg" width="300px"/> | <img src="pics/PlutoInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
 | *<b>Earth - Key:3+X</b>* | *<b>Mars - Key:4+X</b>* | *<b>Pluto- Key:9+X</b>* | 
+
+| <img src="pics/MoonInfo.jpg" width="300px"/> |  <img src="pics/CallistoInfo.jpg" width="300px"/> | <img src="pics/TritonInfo.jpg" width="300px"/> 
+|:---:|:---:|:---:|
+| *<b>Moon - Key:KP 1+X</b>* | *<b>Callisto - Key:KP 6+X</b>* | *<b>Triton- Key:KP 9+X</b>* | 
 
 Again J and O keys can be used to display planet orbits:
 
