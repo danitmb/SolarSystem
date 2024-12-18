@@ -73,13 +73,17 @@ Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down 
 <video src="[https://github.com/user-attachments/assets/6001ac1b-99a9-4b09-8d21-966d40559804" />
 </div>
 
-
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
 </div>
+ 
+There is a kuiper's belt view with the 0 key on the digits keyboard:
 
+<div align="center">
+<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
+</div>
 
 Detailed info of asteroids can be activated with X key:
 
@@ -149,6 +153,10 @@ Again J and O keys can be used to display planet orbits:
 
 <div align="center">
  <video src="https://github.com/user-attachments/assets/44519ce4-bae0-4643-925b-45b4cee0c2d3" />
+</div>
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/2cb0302a-fcc6-4c19-9269-390e43d89f01" />
 </div>
 
 # More to come..
