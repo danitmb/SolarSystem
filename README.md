@@ -70,14 +70,16 @@ The program allows you to view different viewpoints and moons, change cameras an
 Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/93e99bb8-7f29-4a39-b89f-99a0e82a597e" />
+<video src="[https://github.com/user-attachments/assets/6001ac1b-99a9-4b09-8d21-966d40559804" />
 </div>
+
 
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b8a709a6-67bc-4fda-bf5d-5f1afc7a1ef3" />
+<video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
 </div>
+
 
 Detailed info of asteroids can be activated with X key:
 
