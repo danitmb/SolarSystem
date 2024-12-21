@@ -88,9 +88,11 @@ There is a kuiper's belt view with the 0 key on the digits keyboard:
 <video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
 </div>
 
+
 <div align="center">
-<video src="https://github.com/user-attachments/assets/bc7b4f50-bc4f-47c6-a5fa-cb7afa4dc8c" />
+<video src="https://github.com/user-attachments/assets/cd410638-9a8c-4ca7-805a-06d684e070ba" />
 </div>
+
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
 
