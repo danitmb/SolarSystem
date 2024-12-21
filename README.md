@@ -100,11 +100,6 @@ The additional information about the Kuiper Asteroid Belt is displayed by pressi
 <img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
 </div>
 
-
-<div align="center">
-<img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
-</div>
-
 The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
 
 <p align="center">
