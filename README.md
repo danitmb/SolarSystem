@@ -66,12 +66,7 @@ The program allows you to view different viewpoints and moons, change cameras an
 - left button - panning in X and Z axis
 - scroll button - zoom in/out
 - right button - rotate
-
 Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
-
-<div align="center">
-<video src="[https://github.com/user-attachments/assets/6001ac1b-99a9-4b09-8d21-966d40559804" />
-</div>
 
 Asteroid belt view is activated by pressing the 0 key:
 
@@ -79,17 +74,30 @@ Asteroid belt view is activated by pressing the 0 key:
 <video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
 </div>
  
+Detailed info of asteroids can be activated with X key:
+
+<div align="center">
+<img src="pics/AsteroidsInfo.jpg" width="854px"/>
+</div>
+
+## Kuiper asteroids
+
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
 </div>
 
-Detailed info of asteroids can be activated with X key:
+<div align="center">
+<video src="https://github.com/user-attachments/assets/bc7b4f50-bc4f-47c6-a5fa-cb7afa4dc8c" />
+</div>
+
+The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
 
 <div align="center">
-<img src="pics/AsteroidsInfo.jpg" width="854px"/>
+<img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
 </div>
+
 
 <div align="center">
 <img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
