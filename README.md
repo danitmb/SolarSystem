@@ -40,6 +40,12 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - GLSL - is a high-level shading language designed for writing shaders
 - FreeType2 - open-source software library designed for rendering fonts
 - SketchUp - popular 3D modeling software used for creating, editing, and sharing 3D design
+- 
+ ## Used advansed graphics technologies
+
+- <a href="https://learnopengl.com/Advanced-OpenGL/Cubemaps">CubeMap texturing </a>
+- <a href="https://learnopengl.com/Getting-started/Textures">MultiTexturing </a>
+- <a href="https://learnopengl.com/Advanced-OpenGL/Instancing">Instancing </a>
 
 # Logical and functional description of the application
 
