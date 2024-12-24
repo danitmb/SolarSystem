@@ -40,8 +40,8 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - GLSL - is a high-level shading language designed for writing shaders
 - FreeType2 - open-source software library designed for rendering fonts
 - SketchUp - popular 3D modeling software used for creating, editing, and sharing 3D design
-- 
- ## Used advansed graphics technologies
+
+ ## Advanced graphics technologies
 
 - <a href="https://learnopengl.com/Advanced-OpenGL/Cubemaps">CubeMap texturing </a>
 - <a href="https://learnopengl.com/Getting-started/Textures">MultiTexturing </a>
@@ -77,9 +77,9 @@ Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down 
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
+<video src="https://github.com/user-attachments/assets/be5c9336-0e81-4073-85fe-4ea2194f53cf" />
 </div>
- 
+
 Detailed info of asteroids can be activated with X key:
 
 <div align="center">
@@ -91,14 +91,12 @@ Detailed info of asteroids can be activated with X key:
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
+<video src="https://github.com/user-attachments/assets/0b6606e0-db7d-4f38-b7c7-8b735ed6d391" />
 </div>
-
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/cd410638-9a8c-4ca7-805a-06d684e070ba" />
+<video src="https://github.com/user-attachments/assets/cd090cc6-e5bf-4439-bfb7-1047c35fffd6" />
 </div>
-
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
 
