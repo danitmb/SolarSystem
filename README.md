@@ -41,6 +41,13 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - FreeType2 - open-source software library designed for rendering fonts
 - SketchUp - popular 3D modeling software used for creating, editing, and sharing 3D design
 
+## Used advansed graphics technologies
+
+- <a href="https://learnopengl.com/Advanced-OpenGL/Cubemaps">CubeMap texturing </a>
+- <a href="https://learnopengl.com/Getting-started/Textures">MultiTexturing </a>
+- <a href="https://learnopengl.com/Advanced-OpenGL/Instancing">Instancing </a>
+
+
 # Logical and functional description of the application
 
 The program allows you to view different viewpoints and moons, change cameras and various other changes with these buttons, you can remove or add orbits, launch a special mode for additional information, etc.
@@ -79,17 +86,21 @@ Asteroid belt view is activated by pressing the 0 key:
 <video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
 </div>
  
-There is a kuiper's belt view with the 0 key on the digits keyboard:
-
-<div align="center">
-<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
-</div>
-
 Detailed info of asteroids can be activated with X key:
 
 <div align="center">
 <img src="pics/AsteroidsInfo.jpg" width="854px"/>
 </div>
+
+## Kuiper asteroids
+
+There is a kuiper's belt view with the 0 key on the digits keyboard:
+
+<div align="cfghl.['9trrerrrrrererecenter">
+<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
+</div>
+
+The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
 
 <div align="center">
 <img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
