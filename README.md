@@ -95,8 +95,9 @@ There is a kuiper's belt view with the 0 key on the digits keyboard:
 </div>
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/cd090cc6-e5bf-4439-bfb7-1047c35fffd6" />
+<video src="https://github.com/user-attachments/assets/f4b56e0e-3df7-443b-862b-238261039e92" />
 </div>
+
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
 
