@@ -91,7 +91,7 @@ Detailed info of asteroids can be activated with X key:
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/6eca4a6b-e928-4c66-8d54-caaa61df968a" />
+<video src="https://github.com/user-attachments/assets/b8023968-3bef-43a4-86d8-d0b5d058b8c4" />
 </div>
 
 <div align="center">
