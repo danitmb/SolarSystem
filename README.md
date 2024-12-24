@@ -1,9 +1,9 @@
-# 3D Solar system
+## 3D Solar system
 Delevoper: Daniel Milev <br>
 
 <a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
 
-# Introduction
+## Introduction
 
 
 The project aims to develop a 3D simulation of the Solar System using OpenGL and modern multimedia technologies. This simulation will facilitate learning about the geometry, positions, and orbital speeds of planets and their moons. Additionally, it offers an overview of the Asteroid Belt, situated between Mars and Jupiter, which holds significant potential for future study and resource utilization.
@@ -18,7 +18,7 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 <img src="pics/start.jpg" width="854px"/>
 </p>
 
-# Main stages in the implementation of the project
+## Main stages in the implementation of the project
 
 - Defining an idea
 - Presenting to the manager
@@ -28,7 +28,7 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - Testing and correction
 - Publishing and sharing
 
-# Used technologies
+## Used technologies
 
 - C++ -- Programming Language
 - Microsoft Visual Studio - Programming Environment
@@ -41,13 +41,13 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - FreeType2 - open-source software library designed for rendering fonts
 - SketchUp - popular 3D modeling software used for creating, editing, and sharing 3D design
 
- ## Advanced graphics technologies
+## Advanced graphics technologies
 
 - <a href="https://learnopengl.com/Advanced-OpenGL/Cubemaps">CubeMap texturing </a>
 - <a href="https://learnopengl.com/Getting-started/Textures">MultiTexturing </a>
 - <a href="https://learnopengl.com/Advanced-OpenGL/Instancing">Instancing </a>
 
-# Logical and functional description of the application
+## Logical and functional description of the application
 
 The program allows you to view different viewpoints and moons, change cameras and various other changes with these buttons, you can remove or add orbits, launch a special mode for additional information, etc.
 
@@ -77,7 +77,7 @@ Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down 
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/be5c9336-0e81-4073-85fe-4ea2194f53cf" />
+<video src="https://github.com/user-attachments/assets/d76c2d16-f179-4b75-b5a2-820e72480653" />
 </div>
 
 Detailed info of asteroids can be activated with X key:
@@ -177,7 +177,7 @@ Again J and O keys can be used to display planet orbits:
  <video src="https://github.com/user-attachments/assets/2cb0302a-fcc6-4c19-9269-390e43d89f01" />
 </div>
 
-# More to come..
+## More to come..
 <ul>
   <li>Spacehip travel around the solar system </li>
   
@@ -187,13 +187,13 @@ Again J and O keys can be used to display planet orbits:
   <li>Showing planets internal structure</li>
 </ul> 
 
-# Drew inspiration from
+## Drew inspiration from
 * <a href="https://learnopengl.com">learnopengl</a> - extensive tutorial resource for learning OpenGL
 * <a href="https://www.solarsystemscope.com">solarsystemscope.com </a> - textures of the planets in the Solar system
 * <a href="https://sketchfab.com">sketchfab.com </a> - 3D object models
 * <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - 3D C/C++/OpenGL/GLFW Simple Solar System model
 
-# Release
+## Release
 <b>SolarSystem 1.0 </b>can be downloaded from: 
 |Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
