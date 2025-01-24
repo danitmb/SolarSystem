@@ -174,8 +174,7 @@ Again J and O keys can be used to display planet orbits:
 </div>
 
 <div align="center">
- <video src="
-https://github.com/user-attachments/assets/bbde6518-9111-4c85-be11-8040cb731346" />
+ <video src="https://github.com/user-attachments/assets/bbde6518-9111-4c85-be11-8040cb731346" />
 </div>
 
 ## More to come..
