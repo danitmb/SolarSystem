@@ -174,10 +174,11 @@ Again J and O keys can be used to display planet orbits:
 </div>
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/2cb0302a-fcc6-4c19-9269-390e43d89f01" />
+ <video src="https://github.com/user-attachments/assets/6d92a3b1-b4b8-4116-b377-d46c62c002cb" />
 </div>
 
 ## More to come..
+
 <ul>
   <li>Spacehip travel around the solar system </li>
   
