@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/38f18e2d-cdb4-4c63-bf03-e5241117767e
 ## 3D Solar system
 Delevoper: Daniel Milev <br>
 
@@ -14,9 +16,12 @@ The application lets you adjust the simulation speed or pause it at any chosen m
 
 While many dream of traveling to space, and I hope it becomes a reality in the near future, the 3D Solar System simulation offers the chance to pilot a virtual spaceship, exploring destinations from the Sun to Pluto.
 
-<p align="center">
-<img src="pics/start.jpg" width="854px"/>
-</p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/5621b124-eda8-4a60-a70e-8077b35e10fe" />
+</div>
+
+
+
 
 ## Main stages in the implementation of the project
 
@@ -174,7 +179,7 @@ Again J and O keys can be used to display planet orbits:
 </div>
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/bbde6518-9111-4c85-be11-8040cb731346" />
+ <video src="https://github.com/user-attachments/assets/d2270dc1-7ee5-40e9-98d3-667128fcc470"/>
 </div>
 
 ## More to come..
