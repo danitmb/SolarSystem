@@ -55,12 +55,13 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 The program allows you to view different viewpoints and moons, change cameras and various other changes with these buttons, you can remove or add orbits, launch a special mode for additional information, etc.
 
 ### Keyboard
-- WASD and arrows – camera movement
+- WASDQE – camera movement
+- Arrows, period and splash – rotate view 
 - 1 – 0 on the keyboard – change camera to planets view
 - 1 – 6 on the keypad  - change camera to moons view
-- E – change background
+- R – change background
 - I – enter and exit a spaceship
-- O – show orbits
+- O – show and hide orbits
 - P – freeze time
 - J – change camera to side view (in planet view)
 - K – show spaceship
@@ -73,11 +74,10 @@ The program allows you to view different viewpoints and moons, change cameras an
 - F7 - start travel
 
 ### Mouse
-- left button - panning in X and Z axis
+- left button - rotate view
 - scroll button - zoom in/out
-- right button - rotate
-Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
-
+- right button - move view
+  
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
