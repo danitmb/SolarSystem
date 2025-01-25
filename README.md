@@ -70,6 +70,7 @@ The program allows you to view different viewpoints and moons, change cameras an
 - F1 – change POV to freecam
 - X - display additional info (in planet view)
 - F - Toggle fullscreen
+- F7 - start travel
 
 ### Mouse
 - left button - panning in X and Z axis
@@ -97,22 +98,25 @@ There is a kuiper's belt view with the 0 key on the digits keyboard:
 <video src="https://github.com/user-attachments/assets/b8023968-3bef-43a4-86d8-d0b5d058b8c4" />
 </div>
 
-<div align="center">
-<video src="https://github.com/user-attachments/assets/f4b56e0e-3df7-443b-862b-238261039e92" />
-</div>
-
-
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
 
 <div align="center">
 <img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
 </div>
 
+## Travel
+You can begin a travel by pressing the F7 button.
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/2155c13e-c825-4a8c-8121-8c39edd8124c" />
+</div>
+ 
 The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
 
 <p align="center">
 <img src="pics/Orbits.jpg" width="854px"/>
 </p>
+
 
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
 
