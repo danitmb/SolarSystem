@@ -1,9 +1,9 @@
-# 3D Solar system
+## 3D Solar system
 Delevoper: Daniel Milev <br>
 
 <a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
 
-# Introduction
+## Introduction
 
 
 The project aims to develop a 3D simulation of the Solar System using OpenGL and modern multimedia technologies. This simulation will facilitate learning about the geometry, positions, and orbital speeds of planets and their moons. Additionally, it offers an overview of the Asteroid Belt, situated between Mars and Jupiter, which holds significant potential for future study and resource utilization.
@@ -14,11 +14,14 @@ The application lets you adjust the simulation speed or pause it at any chosen m
 
 While many dream of traveling to space, and I hope it becomes a reality in the near future, the 3D Solar System simulation offers the chance to pilot a virtual spaceship, exploring destinations from the Sun to Pluto.
 
-<p align="center">
-<img src="pics/start.jpg" width="854px"/>
-</p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/5621b124-eda8-4a60-a70e-8077b35e10fe" />
+</div>
 
-# Main stages in the implementation of the project
+
+
+
+## Main stages in the implementation of the project
 
 - Defining an idea
 - Presenting to the manager
@@ -28,7 +31,7 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - Testing and correction
 - Publishing and sharing
 
-# Used technologies
+## Used technologies
 
 - C++ -- Programming Language
 - Microsoft Visual Studio - Programming Environment
@@ -41,24 +44,24 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 - FreeType2 - open-source software library designed for rendering fonts
 - SketchUp - popular 3D modeling software used for creating, editing, and sharing 3D design
 
-## Used advansed graphics technologies
+## Advanced graphics technologies
 
 - <a href="https://learnopengl.com/Advanced-OpenGL/Cubemaps">CubeMap texturing </a>
 - <a href="https://learnopengl.com/Getting-started/Textures">MultiTexturing </a>
 - <a href="https://learnopengl.com/Advanced-OpenGL/Instancing">Instancing </a>
 
-
-# Logical and functional description of the application
+## Logical and functional description of the application
 
 The program allows you to view different viewpoints and moons, change cameras and various other changes with these buttons, you can remove or add orbits, launch a special mode for additional information, etc.
 
 ### Keyboard
-- WASD and arrows – camera movement
+- WASDQE – camera movement
+- Arrows, period and splash – rotate view 
 - 1 – 0 on the keyboard – change camera to planets view
 - 1 – 6 on the keypad  - change camera to moons view
-- E – change background
+- R – change background
 - I – enter and exit a spaceship
-- O – show orbits
+- O – show and hide orbits
 - P – freeze time
 - J – change camera to side view (in planet view)
 - K – show spaceship
@@ -68,63 +71,52 @@ The program allows you to view different viewpoints and moons, change cameras an
 - F1 – change POV to freecam
 - X - display additional info (in planet view)
 - F - Toggle fullscreen
+- F7 - start travel
 
 ### Mouse
-- left button - panning in X and Z axis
+- left button - rotate view
 - scroll button - zoom in/out
-- right button - rotate
-
-Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
-
-<div align="center">
-<video src="[https://github.com/user-attachments/assets/6001ac1b-99a9-4b09-8d21-966d40559804" />
-</div>
-
+- right button - move view
+  
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
+<video src="https://github.com/user-attachments/assets/d76c2d16-f179-4b75-b5a2-820e72480653" />
 </div>
- 
-There is a kuiper's belt view with the 0 key on the digits keyboard:
+
 Detailed info of asteroids can be activated with X key:
 
-
-
-
-
-
-
-
-
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
 <img src="pics/AsteroidsInfo.jpg" width="854px"/>
 </div>
 
-Detailed info of asteroids can be activated with X key:
 ## Kuiper asteroids
 
-<div align="center">
-<img src="pics/AsteroidsInfo.jpg" width="854px"/>
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
-<div align="cfghl.['9trrerrrrrererecenter">
-<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
+<div align="center">
+<video src="https://github.com/user-attachments/assets/b8023968-3bef-43a4-86d8-d0b5d058b8c4" />
 </div>
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
-
 
 <div align="center">
 <img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
 </div>
 
+## Travel
+You can begin a travel by pressing the F7 button.
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/2155c13e-c825-4a8c-8121-8c39edd8124c" />
+</div>
+ 
 The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
 
 <p align="center">
 <img src="pics/Orbits.jpg" width="854px"/>
 </p>
+
 
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
 
@@ -189,10 +181,11 @@ Again J and O keys can be used to display planet orbits:
 </div>
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/2cb0302a-fcc6-4c19-9269-390e43d89f01" />
+ <video src="https://github.com/user-attachments/assets/d2270dc1-7ee5-40e9-98d3-667128fcc470"/>
 </div>
 
-# More to come..
+## More to come..
+
 <ul>
   <li>Spacehip travel around the solar system </li>
   
@@ -202,13 +195,13 @@ Again J and O keys can be used to display planet orbits:
   <li>Showing planets internal structure</li>
 </ul> 
 
-# Drew inspiration from
+## Drew inspiration from
 * <a href="https://learnopengl.com">learnopengl</a> - extensive tutorial resource for learning OpenGL
 * <a href="https://www.solarsystemscope.com">solarsystemscope.com </a> - textures of the planets in the Solar system
 * <a href="https://sketchfab.com">sketchfab.com </a> - 3D object models
 * <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - 3D C/C++/OpenGL/GLFW Simple Solar System model
 
-# Release
+## Release
 <b>SolarSystem 1.0 </b>can be downloaded from: 
 |Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
