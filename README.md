@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/38f18e2d-cdb4-4c63-bf03-e5241117767e
 ## 3D Solar system
 Delevoper: Daniel Milev <br>
 
