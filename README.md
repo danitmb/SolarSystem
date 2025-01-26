@@ -15,11 +15,8 @@ The application lets you adjust the simulation speed or pause it at any chosen m
 While many dream of traveling to space, and I hope it becomes a reality in the near future, the 3D Solar System simulation offers the chance to pilot a virtual spaceship, exploring destinations from the Sun to Pluto.
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/5621b124-eda8-4a60-a70e-8077b35e10fe" />
+<img src="pics/start.jpg" width="854px"/>
 </div>
-
-
-
 
 ## Main stages in the implementation of the project
 
@@ -78,6 +75,8 @@ The program allows you to view different viewpoints and moons, change cameras an
 - scroll button - zoom in/out
 - right button - move view
   
+## Asteroid belt
+
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
@@ -92,10 +91,14 @@ Detailed info of asteroids can be activated with X key:
 
 ## Kuiper asteroids
 
+<div align="center">
+<video src="https://github.com/user-attachments/assets/5621b124-eda8-4a60-a70e-8077b35e10fe" />
+</div>
+
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/2b4adfa9-e782-406e-948c-3b5f0893b08c" />
+<video src="https://github.com/user-attachments/assets/b8023968-3bef-43a4-86d8-d0b5d058b8c4" />
 </div>
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
@@ -104,7 +107,12 @@ The additional information about the Kuiper Asteroid Belt is displayed by pressi
 <img src="pics/AsteroidsKuiperInfo.jpg" width="854px"/>
 </div>
 
-## Travel
+## Saturn Belt
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/d2270dc1-7ee5-40e9-98d3-667128fcc470"/>
+</div>
+
 You can begin a travel by pressing the F7 button.
 
 <div align="center">
@@ -178,10 +186,6 @@ Again J and O keys can be used to display planet orbits:
 
 <div align="center">
  <video src="https://github.com/user-attachments/assets/44519ce4-bae0-4643-925b-45b4cee0c2d3" />
-</div>
-
-<div align="center">
- <video src="https://github.com/user-attachments/assets/d2270dc1-7ee5-40e9-98d3-667128fcc470"/>
 </div>
 
 ## More to come..
