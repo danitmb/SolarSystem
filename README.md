@@ -180,7 +180,7 @@ Again J and O keys can be used to display planet orbits:
 </div>
 
 <div align="center">
- <video src="videos/JupiterView.webm" />
+ <video src="https://github.com/danitmb/SolarSystem/blob/main/Videos/JupiterView.webm" />
 </div>
 
 ## More to come..
