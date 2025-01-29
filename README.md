@@ -80,7 +80,7 @@ The program allows you to view different viewpoints and moons, change cameras an
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="Videos/Asteroids.webm" />
+<video src="https://github.com/user-attachments/assets/3f779ace-f982-4389-a7fb-ed065fbb40b0" />
 </div>
 
 Detailed info of asteroids can be activated with X key:
@@ -92,13 +92,13 @@ Detailed info of asteroids can be activated with X key:
 ## Kuiper asteroids
 
 <div align="center">
-<video src="videos/KuiperAsteroidsFar.webm" />
+<video src="https://github.com/user-attachments/assets/3d0826b5-e00f-42e3-925a-f4c0af53ee6e" />
 </div>
 
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
-<video src="videos/KuiperAsteroids.webm" />
+<video src="https://github.com/user-attachments/assets/3eb879dc-b83c-4972-9d18-61558cea957e" />
 </div>
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
@@ -110,8 +110,7 @@ The additional information about the Kuiper Asteroid Belt is displayed by pressi
 ## Saturn Belt
 
 <div align="center">
- <video src="videos/Saturn.webm"/>
-</div>
+ <video src="https://github.com/user-attachments/assets/0bce23b6-d156-4767-9f0c-2b67e35b8a3f"/>
 
 You can begin a travel by pressing the F7 button.
 
@@ -176,12 +175,14 @@ In planet and moons views there is additional information about the objects disp
 Again J and O keys can be used to display planet orbits:
 
 <div align="center">
- <video src="videos/EarthView.webm" />
+ <video src="https://github.com/user-attachments/assets/92b76f57-618d-48c8-a03e-803b9b02d1d6" />
 </div>
 
+
 <div align="center">
- <video src="Videos/JupiterView.webm" />
+ <video src="https://github.com/user-attachments/assets/9e17d2ac-73bc-43e8-817d-6d518cc3689c" />
 </div>
+
 
 ## More to come..
 
