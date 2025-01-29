@@ -80,7 +80,7 @@ The program allows you to view different viewpoints and moons, change cameras an
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/d76c2d16-f179-4b75-b5a2-820e72480653" />
+<video src="Videos/Asteroids.webm" />
 </div>
 
 Detailed info of asteroids can be activated with X key:
@@ -92,13 +92,13 @@ Detailed info of asteroids can be activated with X key:
 ## Kuiper asteroids
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/5621b124-eda8-4a60-a70e-8077b35e10fe" />
+<video src="videos/KuiperAsteroidsFar.webm" />
 </div>
 
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b8023968-3bef-43a4-86d8-d0b5d058b8c4" />
+<video src="videos/KuiperAsteroids.webm" />
 </div>
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
@@ -110,7 +110,7 @@ The additional information about the Kuiper Asteroid Belt is displayed by pressi
 ## Saturn Belt
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/d2270dc1-7ee5-40e9-98d3-667128fcc470"/>
+ <video src="videos/Saturn.webm"/>
 </div>
 
 You can begin a travel by pressing the F7 button.
@@ -120,11 +120,6 @@ You can begin a travel by pressing the F7 button.
 </div>
  
 The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
-
-<p align="center">
-<img src="pics/Orbits.jpg" width="854px"/>
-</p>
-
 
 You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
 
@@ -181,11 +176,11 @@ In planet and moons views there is additional information about the objects disp
 Again J and O keys can be used to display planet orbits:
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/4a4b5588-219a-4aa4-bb61-bf4b96394c10" />
+ <video src="videos/EarthView.webm" />
 </div>
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/44519ce4-bae0-4643-925b-45b4cee0c2d3" />
+ <video src="videos/JupiterView.webm" />
 </div>
 
 ## More to come..
