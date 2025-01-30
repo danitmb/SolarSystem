@@ -109,10 +109,12 @@ The additional information about the Kuiper Asteroid Belt is displayed by pressi
 
 ## Saturn Belt
 
+Saturn belt is compose from three sub belts known as A,B and C.
 <div align="center">
- <video src="https://github.com/user-attachments/assets/0bce23b6-d156-4767-9f0c-2b67e35b8a3f"/>
-
-You can begin a travel by pressing the F7 button.
+ <video src="https://github.com/user-attachments/assets/5fe0d665-2acf-41b8-b2ae-a558ace83785"/>
+</div>
+   
+Camera travel view is started by pressing the F7 button.
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/2155c13e-c825-4a8c-8121-8c39edd8124c" />
