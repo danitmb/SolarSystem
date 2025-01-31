@@ -80,8 +80,7 @@ The program allows you to view different viewpoints and moons, change cameras an
 Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/3f779ace-f982-4389-a7fb-ed065fbb40b0" />
-</div>
+<video src="https://github.com/user-attachments/assets/f63e7cb0-1657-48f6-b470-97596ece2d42" />
 
 Detailed info of asteroids can be activated with X key:
 
@@ -92,13 +91,13 @@ Detailed info of asteroids can be activated with X key:
 ## Kuiper asteroids
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/3d0826b5-e00f-42e3-925a-f4c0af53ee6e" />
+<video src="https://github.com/user-attachments/assets/77ab0257-cefe-4d0a-9bcc-c3d20e070573" />
 </div>
-
+  
 There is a kuiper's belt view with the 0 key on the digits keyboard:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/3eb879dc-b83c-4972-9d18-61558cea957e" />
+<video src="https://github.com/user-attachments/assets/0866b541-ef37-42ba-998a-e3506b4e6116" />
 </div>
 
 The additional information about the Kuiper Asteroid Belt is displayed by pressing the X button
@@ -177,14 +176,12 @@ In planet and moons views there is additional information about the objects disp
 Again J and O keys can be used to display planet orbits:
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/92b76f57-618d-48c8-a03e-803b9b02d1d6" />
+ <video src="https://github.com/user-attachments/assets/1c86589c-2a5d-4216-9b0b-ae6cf9093a75" />
 </div>
-
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/9e17d2ac-73bc-43e8-817d-6d518cc3689c" />
+ <video src="https://github.com/user-attachments/assets/859eed4d-4d23-4fb9-a96d-911720d4c755" />
 </div>
-
 
 ## More to come..
 
