@@ -81,6 +81,7 @@ Asteroid belt view is activated by pressing the 0 key:
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/f63e7cb0-1657-48f6-b470-97596ece2d42" />
+</div>
 
 Detailed info of asteroids can be activated with X key:
 
