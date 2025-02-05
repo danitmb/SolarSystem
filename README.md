@@ -177,12 +177,17 @@ In planet and moons views there is additional information about the objects disp
 Again J and O keys can be used to display planet orbits:
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/1c86589c-2a5d-4216-9b0b-ae6cf9093a75" />
+ <video src="https://github.com/user-attachments/assets/be601eb0-3a3f-4d38-9db4-617e6e57750a" />
 </div>
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/859eed4d-4d23-4fb9-a96d-911720d4c755" />
+ <video src="https://github.com/user-attachments/assets/3f7a4180-77c4-4103-9bba-f2391ade11f0" />
 </div>
+
+
+
+
+
 
 ## More to come..
 
