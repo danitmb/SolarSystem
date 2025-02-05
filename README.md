@@ -52,23 +52,29 @@ While many dream of traveling to space, and I hope it becomes a reality in the n
 The program allows you to view different viewpoints and moons, change cameras and various other changes with these buttons, you can remove or add orbits, launch a special mode for additional information, etc.
 
 ### Keyboard
-- WASDQE – camera movement
-- Arrows, period and splash – rotate view 
-- 1 – 0 on the keyboard – change camera to planets view
-- 1 – 6 on the keypad  - change camera to moons view
-- R – change background
-- I – enter and exit a spaceship
-- O – show and hide orbits
-- P – freeze time
-- J – change camera to side view (in planet view)
-- K – show spaceship
-- L – change language
-- Keypad (+, -) – change simulation speed
-- Space – return to default POV
-- F1 – change POV to freecam
-- X - display additional info (in planet view)
-- F - Toggle fullscreen
-- F7 - start travel
+ - /(? - help menu
+ - WASDQE - camera movement.
+ - Arrow keys - rotate the view in the direction of the X and Y axes.
+ - < > - rotate the view in the direction of the Z axis.
+ - 1 - 0 on the keyboard - change the camera to the planet view
+ - 1 - 6 on the numeric keypad - change the camera to the moon view
+ - R - change the background.
+ - O - show and hide the orbit
+ - P - pause
+ - J - change the camera to the side view (in planet view)
+ - K - show the spacecraft
+ - L - change the language
+ - (+, - ) - change the simulation speed
+ - Space - return to the standard point of view
+ - F1 - switch to free camera
+ - X - show additional information (in planet view)
+ - F - switch to full screen
+ - NM - change the number of asteroids
+ - HG - change the number of Kuiper asteroids
+ - Z - show axes
+ - B - show the asteroid belt
+ - V - show Kuiper belt
+
 
 ### Mouse
 - left button - rotate view
